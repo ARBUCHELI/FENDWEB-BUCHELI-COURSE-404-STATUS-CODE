@@ -1,4 +1,6 @@
-# 404-STATUS-CODE
+# WEB DEVELOPMENT FUNDAMENTALS
+
+## 404-STATUS-CODE
 
 The browser is currently displaying a website that Alex has created to show photos and descriptions of her pets. If you click on the links for Dogs or Cats, you can see more information about Alex’s dogs and cats.
 
